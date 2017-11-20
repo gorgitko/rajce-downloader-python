@@ -1,0 +1,6 @@
+.idea/
+build/
+dist/
+*.egg*/
+test.py
+__pycache__/

@@ -1,0 +1,1 @@
+from .rajce_downloader import download_album
