@@ -2,7 +2,7 @@
 Simple command-line tool and library for downloading whole albums from rajce.net
 
 # Installation
-Download this repository and run `python setup.py install`
+Download this repository and run `$ python setup.py install`
 
 # Command-line interface
 See `rajce_downloader -h`
