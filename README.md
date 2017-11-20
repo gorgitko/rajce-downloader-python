@@ -14,6 +14,6 @@ See `download_album` in [rajce_downloader.py](rajce_downloader/rajce_downloader.
 from rajce_downloader import download_album
 
 # download_album returns list of paths of downloaded images
-r = download_album("http://lidondr.rajce.idnes.cz/Liberec_2017", "c:/Temp/Liberec2017", n_images=0, overwrite=True)
+r = download_album("http://lidondr.rajce.idnes.cz/Liberec_2017", "c:/Temp/Liberec2017", n_images=10, overwrite=False)
 print(r)
 ```
